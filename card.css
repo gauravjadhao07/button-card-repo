@@ -1,0 +1,168 @@
+.card1{
+    background-color: #e0a9d7;
+    width: 300px;
+    padding: 10px;
+    border: 2px solid #f3afd7;
+    border-radius: 5px;
+    margin-left: 100px;
+
+}
+
+.product1{
+    font-size: 25px;
+    color:  #e120a1;
+}
+
+.shoes{
+    width: 100%;
+}
+
+.current-price{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.button1{
+    background-color: #e120a1;
+    color: #12080a;
+    font-size: 18px;
+    padding: 2px 10px;
+    border: none;
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+}
+
+.card2{
+    background-color: #BDB395;
+    width: 300px;
+    padding: 10px;
+    border: 2px solid #121111;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+
+.apple{
+    width: 100%;
+}
+
+.fruits1{
+    font-size: 25px;
+}
+
+.apple-price{
+    font-size: 30px;
+    font-weight:bolder
+}
+
+.button2{
+    background-color: rgb(7, 8, 8);
+    color: #fff;
+    padding: 4px 10px;
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   cursor: pointer;
+   border: none;
+}
+
+.card3{
+    background-color: #cba8e4;
+    width: 350px;
+    padding: 10px;
+    border: 2px solid #39065e;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.watch{
+    width: 100%;
+}
+
+.product2{
+    font-size: 25px;
+    color: #4e107a;
+}
+.watch-price{
+    font-size: 30px;
+    font-weight:bolder
+}
+
+.button3{
+    background-color: #4e107a;
+    color: #fff;
+    padding: 4px 10px;
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   cursor: pointer;
+   border: none;
+   border-radius: 30px;
+}
+
+.card4{
+    background-color: #f0eca0;
+    width: 350px;
+    padding: 10px;
+    border: 2px solid #9305f8;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.mango{
+    width: 100%;
+}
+.fruits2{
+    font-size: 35px;
+    color: #280b7e;
+}
+.mango-price{
+    font-size: 30px;
+    font-weight:bolder
+}
+.button4{
+    background-color: #280b7e;
+    color: #fff;
+    padding: 4px 10px;
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   cursor: pointer;
+   border: 3px solid rgb(16, 6, 6);
+   border-radius: none;
+}
+
+.card5{
+    background-color: #c1f2ba;
+    width: 350px;
+    padding: 10px;
+    border: 2px solid #0bed4b;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.phone{
+    width: 100%;
+}
+.product3{
+    font-size: 30px;
+    color: #040302;
+}
+.iphone-price{
+    font-size: 30px;
+    font-weight:bolder
+}
+.button5{
+    background-color: #0a080f;
+    color: #fff;
+    padding: 4px 10px;
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   cursor: pointer;
+   border: none;
+   border-radius: 30px;
+}
